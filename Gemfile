@@ -29,6 +29,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'nokogiri', '~> 1.10.4'
 
+gem 'react_on_rails', '11.0.0'
+gem 'webpacker', '~> 3'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
